@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "description": "A faded Monokai syntax theme for Atom.",
-  "repository": "https://github.com/dionmunk/monokai",
+  "repository": "https://github.com/dionmunk/monokai-faded",
   "license": "MIT",
   "engines": {
     "atom": ">0.39.0"
