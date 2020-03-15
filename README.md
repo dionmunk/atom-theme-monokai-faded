@@ -1,5 +1,15 @@
-# Monokai Faded Theme
+# Monokai Faded
 
-A faded Monokai syntax theme for Atom based on https://github.com/kevinsawicki/monokai.
+[![Creative Commons](https://flat.badgen.net/badge/license/CC-BY-NC-4.0/orange)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![GitHub](https://flat.badgen.net/github/release/dionmunk/atom-theme-monokai-faded/)](https://github.com/dionmunk/atom-theme-monokai-faded/releases)
+[![Atom Package](https://flat.badgen.net/apm/downloads/atom-theme-monokai-faded)](https://atom.io/themes/atom-theme-monokai-faded)
 
-![Screenshot](http://dionmunk.com/images/posts/2016/02/29/monokai-faded.png)
+Monokai Faded is a syntax theme for Atom.
+
+## Screenshot
+
+![Screenshot](screenshots/screenshot.png)
+
+## License
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.

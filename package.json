@@ -3,8 +3,8 @@
   "theme": "syntax",
   "version": "0.0.7",
   "private": false,
-  "description": "A faded Monokai syntax theme for Atom.",
-  "repository": "https://github.com/dionmunk/monokai-faded",
+  "description": "Monokai Faded is a syntax theme for Atom.",
+  "repository": "https://github.com/dionmunk/atom-theme-monokai-faded",
   "license": "MIT",
   "engines": {
     "atom": ">0.39.0"
