@@ -4,7 +4,7 @@
 [![GitHub](https://flat.badgen.net/github/release/dionmunk/atom-theme-monokai-faded/)](https://github.com/dionmunk/atom-theme-monokai-faded/releases)
 [![Atom Package](https://flat.badgen.net/apm/downloads/monokai-faded)](https://atom.io/themes/monokai-faded)
 
-Monokai Faded is a syntax theme for Atom.
+A faded Monokai syntax theme for Atom.
 
 ## Screenshot
 
